@@ -12,4 +12,7 @@ I am a Maria Goeppert Mayer Postdoctoral Fellow at [Argonne National Laboratory]
 
 <p style="text-align:center;"><img src="Kody.jpeg" alt="drawing" width="400"/>
 
-
+#### Publications
+  1. Kody, A., Chevalier, S., Chatzivasileiadis, S., and Molzahn, D.K. (2022). ``Modeling the AC Power Flow Equations with Optimally Compressed Neural Networks: Application to Unit Commitment,'' Electric Power Systems Research, 213, 108282 %Preprint: arXiv:2110.11269.
+  2. Zeng, S., Kody, A., Kim, Y., Kim, K., and Molzahn, D.K. (2022). ``A Reinforcement Learning Approach to Parameter Selection for Distributed Optimal Power Flow,'' Electric Power Systems Research, 212, 108546. %Preprint: arXiv:2110.11991.
+  3. Kody, A., Piansky, R., and Molzahn, D.K. (2022). ``Optimizing Transmission Infrastructure Investments to Support Line De-Energization for Mitigating Wildfire Ignition Risk,'' Presented at the 11th Bulk Power Systems Dynamics and Control Symposium, Banff, Cananda. Preprint: arXiv:2203.10176.
