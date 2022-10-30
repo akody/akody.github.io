@@ -10,5 +10,5 @@ layout: home
 
 Description here
 
-![My Image](Kody.jpeg)
+![My Image](Kody.jpeg | width=100)
 
