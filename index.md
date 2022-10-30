@@ -10,5 +10,6 @@ layout: home
 
 Description here
 
-![My Image](Kody.jpeg | width=100)
+<img src="Kody.jpg" alt="drawing" width="200"/>
+
 
