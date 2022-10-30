@@ -10,6 +10,6 @@ layout: home
 
 Welcome! I am currently a Maria Goeppert Mayer Postdoctoral Fellow at Argonne National Laboratory in Lemont, Illinois. My research focuses on developing control and optimization algorithms for power and energy systems. I received my Ph.D. in Electrical Engineering from the University of Michigan in Ann Arbor in 2019, where my thesis was on developing control systems for self-powered technologies. My graduate work was supported by a National Science Foundation Graduate Research Fellowship and a Rackham Merit Fellowship. 
 
-<img src="Kody.jpeg" alt="drawing" width="200"/>
+<img src="Kody.jpeg" alt="drawing" width="400"/>
 
 
