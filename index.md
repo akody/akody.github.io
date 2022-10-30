@@ -10,5 +10,5 @@ layout: home
 
 Description here
 
-![image-title-here](https://raw.githubusercontent.com/akody/akody.github.io/kody.jpeg)
+![My Image](Kody.jpeg)
 
