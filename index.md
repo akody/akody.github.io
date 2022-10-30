@@ -10,5 +10,5 @@ layout: home
 
 Description here
 
-![image-title-here](/kody.jpeg){:class="img-responsive"}
+![image-title-here](/kody.jpeg)
 
