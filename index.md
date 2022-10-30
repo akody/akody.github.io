@@ -9,3 +9,6 @@ layout: home
 ---
 
 Description here
+
+![image-title-here](kody.jpg){:class="img-responsive"}
+
