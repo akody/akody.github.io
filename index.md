@@ -10,6 +10,6 @@ layout: home
 
 Description here
 
-<img src="Kody.jpg" alt="drawing" width="200"/>
+<img src="Kody.jpeg" alt="drawing" width="200"/>
 
 
