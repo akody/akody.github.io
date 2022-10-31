@@ -37,7 +37,9 @@ I am a Maria Goeppert Mayer Postdoctoral Fellow at [Argonne National Laboratory]
     
 11. **Kody, A.** and Scruggs, J.T. (2014). "Optimal Energy Harvesting from Impulse Trains using Piezoelectric Transduction," Paper presented at Smart Materials, Adaptive Structures and Intelligent Systems Conference in Newport, RI. [[link]](https://asmedigitalcollection.asme.org/SMASIS/proceedings-abstract/SMASIS2014/V002T07A016/286237)
     
-### Other
+### Pictures
 
-In my free time, I like to hike
+In my free time, I like to hike. Here are some photos from my adventures.
+
+<img src="IMG_2108.jpeg" alt="drawing" width="400"/>
 
