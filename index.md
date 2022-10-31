@@ -41,5 +41,5 @@ I am a Maria Goeppert Mayer Postdoctoral Fellow at [Argonne National Laboratory]
 
 In my free time, I like to hike. Here are some photos from my adventures.
 
-<img src="IMG_2108.jpeg" alt="drawing" width="400"/>
+<img src="IMG_2108.jpeg" alt="drawing" width="200"/> <img src="IMG_1094.jpeg" alt="drawing" width="200"/>
 
