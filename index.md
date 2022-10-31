@@ -23,7 +23,7 @@ I am a Maria Goeppert Mayer Postdoctoral Fellow at [Argonne National Laboratory]
     
 4. **Kody, A.**, West, A., and Molzahn, D.K. (2022). "Sharing the Load: Considering Fairness in De-Energization Scheduling to Mitigate Wildfire Ignition Risk Using Rolling Optimization," To be presented at the 61st Conference on Decision and Control in Cancun, Mexico. [[link]](https://arxiv.org/abs/2204.06543)
     
-5. Owen Aquino, A.D., R. Harris, **Kody, A.**, and Molzahn, D.K. (2022). "Comparing Machine Learning and Optimization Approaches for the $N-K$ Interdiction Problem Considering Load Variability," To be presented at the 56th Hawaii International Conference on System Sciences (HICSS) in Maui, HI. [[link]](https://molzahn.github.io/pubs/owen_aquino_harris_kody_molzahn-ml_for_n-k.pdf)
+5. Owen Aquino, A.D., R. Harris, **Kody, A.**, and Molzahn, D.K. (2022). "Comparing Machine Learning and Optimization Approaches for the N-k Interdiction Problem Considering Load Variability," To be presented at the 56th Hawaii International Conference on System Sciences (HICSS) in Maui, HI. [[link]](https://molzahn.github.io/pubs/owen_aquino_harris_kody_molzahn-ml_for_n-k.pdf)
     
 6. **Kody, A**. and Scruggs, J.T. (2021). “MPC Trajectory Feasibility Constraints for Self-Powered Control Systems,” IEEE Transactions on Automatic Control. [[link]](https://ieeexplore.ieee.org/abstract/document/9640555?casa_token=L1_12V5KBhEAAAAA:BvJhQZuWnprQFiAZ2nlOYJMrfkj8Q9NUecCRpDRLe2L6sUDEIsKzkEEwxic_5lwE9LXC4oNx)
     
