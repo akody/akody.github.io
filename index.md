@@ -43,6 +43,5 @@ In my free time, I like to hike. Here are some photos from my adventures.
 
   <img src="IMG_2108.jpeg" alt="drawing" width="200"/> <img src="IMG_1094.JPG" alt="drawing" width="200"/> <img src="IMG_5349.JPG" alt="drawing" width="200"/> 
   
-  
   <img src="IMG_1144.JPG" alt="drawing" width="200"/> <img src="IMG_6756.JPG" alt="drawing" width="200"/> <img src="IMG_9844.JPG" alt="drawing" width="200"/>
 
