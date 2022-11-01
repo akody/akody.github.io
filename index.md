@@ -39,7 +39,7 @@ I am a Maria Goeppert Mayer Postdoctoral Fellow at [Argonne National Laboratory]
     
     
     
-### Non-Academic Interests
+### Other Interests
 
 In my spare time, I enjoy hiking and other outdoor activities, like cross-country skiing and biking. Here are photos from some of my favorite places I've visited over the last few years:
 
