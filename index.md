@@ -46,4 +46,6 @@ In my spare time, I enjoy hiking and other outdoor activities, like cross-countr
   <img src="IMG_2108.jpeg" alt="drawing" width="220"/> <img src="IMG_1094.JPG" alt="drawing" width="220"/> <img src="IMG_5349.JPG" alt="drawing" width="220"/> 
   
   <img src="IMG_1144.JPG" alt="drawing" width="220"/> <img src="IMG_6756.JPG" alt="drawing" width="220"/> <img src="IMG_9844.JPG" alt="drawing" width="220"/>
+  
+ Maybe you can guess these locations. Hints: Two are outside of the US. Two were taken in US National Parks.
 
