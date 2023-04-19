@@ -13,7 +13,7 @@ I am a [Maria Goeppert Mayer Postdoctoral Fellow](https://www.anl.gov/article/ar
 
   <img src="Kody.jpeg" alt="drawing" width="400"/>
   
-### Publications
+### **Publications**
 
 1. **Kody, A.**, Chevalier, S., Chatzivasileiadis, S., and Molzahn, D.K. (2022). "Modeling the AC Power Flow Equations with Optimally Compressed Neural Networks: Application to Unit Commitment," Electric Power Systems Research, 213, 108282. Presented at the Power Systems Computation Conference (PSCC) in Porto, Portugal. [[link]](https://www.sciencedirect.com/science/article/pii/S0378779622004771?casa_token=2my7ikJUZ1sAAAAA:L3scHwhkK4beA59l1Dtfpt7eiSFH02xUPHkZQ1UZMEuzL2kz9_pvDSSHs2v9drFX2c-RcrHr)
 
@@ -38,7 +38,7 @@ I am a [Maria Goeppert Mayer Postdoctoral Fellow](https://www.anl.gov/article/ar
 11. **Kody, A.** and Scruggs, J.T. (2014). "Optimal Energy Harvesting from Impulse Trains using Piezoelectric Transduction," Paper presented at Smart Materials, Adaptive Structures and Intelligent Systems Conference in Newport, RI. [[link]](https://asmedigitalcollection.asme.org/SMASIS/proceedings-abstract/SMASIS2014/V002T07A016/286237)
     
     
-### Presentations
+### **Presentations**
 
 1. "Machine-Learning Enhanced Optimization and Control for Power Systems Applications." Center for Energy Research at the University of California, San Diego. Virtual. February 2023.
 
@@ -74,7 +74,7 @@ I am a [Maria Goeppert Mayer Postdoctoral Fellow](https://www.anl.gov/article/ar
 
 
     
-### Other Interests
+### **Other Interests**
 
 In my spare time, I enjoy hiking and other outdoor activities, like cross-country skiing and biking. Here are photos from some of my favorite places I've visited over the last few years:
 
