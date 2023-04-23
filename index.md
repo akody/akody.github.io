@@ -19,7 +19,7 @@ I am a [Maria Goeppert Mayer Postdoctoral Fellow](https://www.anl.gov/article/ar
 
 2. Zeng, S., **Kody, A.**, Kim, Y., Kim, K., and Molzahn, D.K. (2022). "A Reinforcement Learning Approach to Parameter Selection for Distributed Optimal Power Flow," Electric Power Systems Research, 212, 108546. Presented at the Power Systems Computation Conference (PSCC) in Porto, Portugal. [[link]](https://www.sciencedirect.com/science/article/pii/S0378779622006319?casa_token=rJDgEfK3xd0AAAAA:8uKhAcVgsUrtuLj2f2j2Yfu3UDh6SY9cTVGljjdXKF3-0xqcbDlqS08j14W0jJh8-HtTnjjB)
     
-3. **Kody, A.**, Piansky, R., and Molzahn, D.K. (2022). "Optimizing Transmission Infrastructure Investments to Support Line De-Energization for Mitigating Wildfire Ignition Risk," Presented at the 11th Bulk Power Systems Dynamics and Control Symposium in Banff, Cananda. [[link]](https://arxiv.org/abs/2203.10176)
+3. **Kody, A.**, Piansky, R., and Molzahn, D.K. (2022). "Optimizing Transmission Infrastructure Investments to Support Line De-Energization for Mitigating Wildfire Ignition Risk," Presented at the 11th Bulk Power Systems Dynamics and Control Symposium in Banff, Canada. [[link]](https://arxiv.org/abs/2203.10176)
     
 4. **Kody, A.**, West, A., and Molzahn, D.K. (2022). "Sharing the Load: Considering Fairness in De-Energization Scheduling to Mitigate Wildfire Ignition Risk Using Rolling Optimization," To be presented at the 61st Conference on Decision and Control in Cancun, Mexico. [[link]](https://arxiv.org/abs/2204.06543)
     
@@ -40,9 +40,9 @@ I am a [Maria Goeppert Mayer Postdoctoral Fellow](https://www.anl.gov/article/ar
     
 ### **Presentations**
 
-1. "Machine-Learning Enhanced Optimization and Control for Power Systems Applications." Center for Energy Research at the University of California, San Diego. Virtual. February 2023.
+1. "Machine Learning-Enhanced Optimization and Wildfire Risk Mitigation for Power Systems." Center for Energy Research at the University of California, San Diego. Virtual. February 2023.
 
-2. "Algorithmic Fairness in Power Systems Optimization Problems." 5th Grid Science Winter School and Conference. Los Alamos National Laboratory. January 2023.
+2. "Sharing the Load: Considering Fairness in De-energization Scheduling to Mitigate Wildfire Ignition Risk." 5th Grid Science Winter School and Conference. Los Alamos National Laboratory. January 2023.
 
 3. "Sharing the Load: Considering Fairness in De-Energization Scheduling to Mitigate Wildfire Ignition Risk Using Rolling Optimization." 61st IEEE Conference on Decision and Control. Cancun, Mexico. December 2022.
 
